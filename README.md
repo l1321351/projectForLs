@@ -1,2 +1,0 @@
-# projectForLs
-A New Repsitory
